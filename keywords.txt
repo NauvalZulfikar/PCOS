@@ -1,0 +1,34 @@
+Bipolar Disorder
+Cardiovascular Disease
+Lyme Disease
+Uterine Fibroids
+Kidney Disease
+Lupus
+Chronic Obstructive Pulmonary Disease (COPD)
+Depression
+Hypertension
+Ovarian Cancer
+Crohn's Disease",
+Crohn's Disease and Colitis",
+Dyslexia
+Breast Cancer
+Maternal Health
+Autism
+Alzheimer's Disease",
+Infertility
+Multiple Sclerosis
+Tuberculosis (TB)
+Anxiety Disorders
+Rheumatoid Arthritis (RA)
+Stroke
+Cancer
+ALS (Amyotrophic Lateral Sclerosis)
+Arthritis
+Uterine Cancer
+Endometriosis
+Diabetes
+Alzheimer's DiseasevAutism",
+Chronic Liver Disease and Cirrhosis
+Cystic Fibrosis
+Hepatitis
+Eating Disorders
