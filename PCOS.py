@@ -24,6 +24,8 @@ def dataframe():
     # Streamlit app
     st.title('PDF Keyword Search')
 
+    visualisation()
+    
     excel = pd.read_excel('RCDC Language.xlsx')
     st.dataframe(excel)
 
@@ -48,13 +50,13 @@ def dataframe():
     #     save_keywords(keywords_file, all_keywords)
     #     st.success(f'Selected keywords deleted.')
 
-st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", [
-    "Table", 
-    "Visualisation"])
+# st.sidebar.title("Navigation")
+# page = st.sidebar.radio("Go to", [
+#     "Table", 
+#     "Visualisation"])
 
-# Display the selected page
-if page == "Table":
-    dataframe()
-else:
-    visualisation()
+# # Display the selected page
+# if page == "Table":
+#     dataframe()
+# else:
+#     visualisation()
